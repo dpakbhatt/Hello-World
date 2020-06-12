@@ -1,2 +1,2 @@
 # basic-html
-HTML code for writing "hello" on the web-page.
+HTML code for writing "Hello World" on the web-page.
